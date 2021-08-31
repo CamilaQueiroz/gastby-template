@@ -1,0 +1,10 @@
+.creditsLink {
+  display: block;
+  margin: 10px 0;
+  text-decoration: none;
+  color: #4a4a4a;
+}
+
+.creditsLink > span {
+  border-bottom: 1px solid #4a4a4a;
+}
